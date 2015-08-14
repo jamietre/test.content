@@ -1,1 +1,1 @@
-﻿module.exports = "test.content version 1.0"
+﻿module.exports = "test.content version 1.1"
